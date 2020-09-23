@@ -27,7 +27,7 @@
     }
 
     #menu li a:hover {
-        color: gray;
+        color: white;
     }
 
     .p-30 {
@@ -58,3 +58,21 @@
     }
 
 /*  Estilos da Página contato.html    */
+
+/* Minhas modificações */
+
+    body {
+    background: lavender;
+    }
+
+    .menu-btn {
+    background-color: lightslategrey;
+    border-style: double;
+    
+    }
+
+    .fonte { 
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: justify;
+    }
